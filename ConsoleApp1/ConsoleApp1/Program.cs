@@ -31,7 +31,8 @@ namespace ConsoleApp1
             }
             Console.WriteLine("O maior valor é {0} e encontra-se no índice {1}.", maximo, indice);
             Console.WriteLine("Maior número: {0}, índice: {1}.", maximo, indice);
-            onsole.WriteLine("Espero que não dê caca");
+            Console.WriteLine("Espero que não dê caca");
+            Console.WriteLine("Espero que não dê caca2");
             Console.ReadKey();
         }
     }
