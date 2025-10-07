@@ -32,6 +32,8 @@ namespace ConsoleApp1
                 }
             }
             Console.WriteLine("O maior valor é {0} e encontra-se no índice {1}.", maximo, indice);
+            Console.WriteLine("Maior número: {0}, índice: {1}.", maximo, indice);
+            Console.WriteLine("ANA **********----************** ANA");
             Console.ReadKey();
         }
     }
