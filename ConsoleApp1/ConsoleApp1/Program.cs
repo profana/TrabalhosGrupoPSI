@@ -22,7 +22,6 @@ namespace ConsoleApp1
             Console.WriteLine("maximo: {1}", maximo);
             
             int indice = 0;
-            Console.WriteLine("maximo: {1}", indice);
 
             for (int i = 1; i < numeros.Length; i++)
             {
