@@ -19,9 +19,9 @@ namespace ConsoleApp1
             }
 
             int maximo = numeros[0];
-            Console.WriteLine("maximo: {1}", maximo);
-            
             int indice = 0;
+            Console.WriteLine("maximo: {1}", maximo);
+            Console.WriteLine("indice: {1}", indice);
 
             for (int i = 1; i < numeros.Length; i++)
             {
@@ -33,7 +33,7 @@ namespace ConsoleApp1
             }
             Console.WriteLine("O maior valor é {0} e encontra-se no índice {1}.", maximo, indice);
             Console.WriteLine("Maior número: {0}, índice: {1}.", maximo, indice);
-            Console.WriteLine("**************************");
+            Console.WriteLine("*******///+++///*********");
             Console.ReadKey();
         }
     }
